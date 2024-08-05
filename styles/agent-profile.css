@@ -1,0 +1,27 @@
+
+
+.agent-profile-container{
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+    padding: 2px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.photo-image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+}
+
+
+.verified-icon{
+    width: 15px;
+    height: 15px;
+    fill: var(--primary-color)
+}
+

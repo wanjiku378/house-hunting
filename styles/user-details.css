@@ -1,0 +1,51 @@
+
+
+
+
+.center-container{
+    text-align: center;
+}
+.user-details-inputs{
+    border-radius: 10px;
+    padding: 20px;
+    width: 350px;
+}
+.info-container{
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+    padding: 2px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+}
+.details-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-weight: bolder;
+    font-size: 30px;
+}
+a{
+    color: #b01bda;
+}
+
+.btn{
+    width: 395px;
+    padding: 20px 10px;
+    color: white;
+    background-color: #b01bda;
+    border: none;
+    font-weight: bolder;
+    border-radius: 10px;
+}
+
+
+textarea{
+    border-radius: 10px;
+    padding: 20px;
+}
